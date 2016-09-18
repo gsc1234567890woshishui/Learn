@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1_b30551e793d17dce0d6583d7361842fe2fe4ed18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_douban.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8f83b5c2e861027db4d5b443aa993a73fd33ba27">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_douban_a15fdf79fd17becb1e8f716daf0dbf11a6cdfc61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\weiboSDKCore_3.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3617ce51258bf3ec0fe2503e3c0a920040b1b53">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\weiboSDKCore_3.1.4_317d25b719fb008d68f5126e3690922a17716f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f916320e2ab151fbe277b290b999a25ba86af69b">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2_8a9b7a62d726a3712046100851bdf5a258aa2b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_kakao.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="73701de1afe9146608c30ed0eb0c52ecdb979c5d">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_kakao_8eb93db4e72599c66488906c405f754d01793154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_line.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cadee2ec4d279355ecdd82cfca92c1948184ab3e">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_line_0bd10f836d61498b3c9aeeb316b86b6f4f963925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_flickr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c0d71f746ff50e0ddd5e0a5217a1427373b70221">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_flickr_937fb3e8887d3fa740a4b99af97d41990d0b1688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_yixin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8fa68a3bb5ae6231cd4ccaf355d80c6f3725d0ca">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_yixin_1_d2db43de9bd5f22fb51ead75844863e44b2da13f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_facebook_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a4e8e7728fae11b8dc824288678e748cb74b0750">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_facebook_1_6b36a99c0d9af351c3df86ee940070cf4abaeb53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_renren_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ca209d760b28d73bbe444888cdd0c20eeaacbc3">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_renren_1_a57a359d8153af4d4c293bea7ebc54772c5851bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2_99ba723f41065dab2489158de90bc828417cb0b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_email.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cd7e2940e2364d68c5c1ec3c0b60fa6182f156a2">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_email_13df243a9b7192ec3aec63ae07ec1c22fe0500d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_alipay.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e0e195c473a50abbb1c8ab10edde34a98a41a4d7">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_alipay_206602c7101dbc743f82a90459fd5abf5ba961eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_dd97e606f1fd46a241e090b4a9b58418741b5b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_ynote.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c9654f2b3518bd8d0a00e78c44af645ac243ea">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_ynote_5761f0859f69d72a56966c26807f13a52dedde7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_evernote.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a39ccfc03628f35a75a153810c9612dd518433c0">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_evernote_18d3dd22440de2c6e7cb1c924622199517974ecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_sms.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f97f5e2d864c8ca3130241cc082700b8ace866a0">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_sms_b944bec50c24496e33a36cf6e1eb743c51859cd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_whatsapp.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="33cea6b983e25ee15c798993e554ae13b2a179be">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_whatsapp_987ff51ae10981b7caf4de3eb60c7bd8ead74c69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\open_sdk_r5756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\open_sdk_r5756_99fa6475208eaa9d9fbadb0d5a8975dee51cad37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_linkedin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="357940cd9259be9e945934eeb447d113489926a6">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_linkedin_2_c14b6b2d236bcc64fc644ae53f7c9ba87f513278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\libapshare.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="18847ccd171b966c0e05319a709420e87f8fd5c3">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\libapshare_3f901ccc8deaff94fee2bcb4b86804da87aae35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fe45695c93b70a730888ead7e7886b1f8366bdb0">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_Sina_c6052a239a2ac363efe744926283bcee36409b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_pocket.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="107ca11bc1a0687acdddee55d0377ca426a5e24b">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_pocket_e46af0bafc03f7d0d217a054d14988ab35f28dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\twitter4j-core-4.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f4ac5989c7be37249dfe310bf78ba69773ebce2d">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\twitter4j-core-4.0.4_f9cba944854862831eb31a692194eca93eeecc7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_foursquare.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dce73c168b28526778241cdeaf466e6e61183689">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_foursquare_9fbcef8b46144674dffe5f9308ee8582edaba02b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_laiwang_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="da3af588b03c17d08334b0e7855843eab035c849">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_laiwang_2_b3dd2ab672c939d1b8c23f69007fa374ab9945a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\line-android-sdk-3.1.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1bac12212b3fc6b133b6bd57830aa8e17cdff514">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\line-android-sdk-3.1.19_61a5da761fc3cb252892ba0fa78f1f1ac1710080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_linkedin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="35503fa99544f4c00874e5ce2471b54d662745c2">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_linkedin_1_8edc017195b495481a810ee1ee15e73b14664812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_twitter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="62e3c15d2a58e6ed58fdbdd53ab6cc62af32c1af">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_twitter_1daf108a9cbb25a75443beef92f9ef73f13e3376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_2_ba6099ac6a2412c7d958f2bf8ed7725e194eb24f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d50ac7e66c37ff4d60b105bd8c7fde5eeaf9dca">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_3_8220a9cf1273cd3f9a4383d380f680647a184437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b09261c8e743417a46dd08b0854570e90bed2b1e">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3_04bae84a6eb8e1345ed227d611c27cfec35caa26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_1_2ec3fea1733962bd70f3dd2bac010e5237f88430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="010e3c528152157badc4a7a5083248923d879298">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\umeng_social_sdk_3b8d15deadfb56e6283bcec19b73bc1712c46df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_pinterest.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3be69f65f96520310bebca04e49822a62f7917c8">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_pinterest_ce5afe5d6e35e1b5d59a4c7822eae5528d11ab5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_e7891dc268ab9f36fe52a8f9dcd83e42cf3805ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_facebook_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="68004c2c5e0110102a6aea561e398398b0e8ec95">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_facebook_2_682360dd1307894b1537515c8e70008761c043cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_renren_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="34be9b3c0aa5dd75048bd384eff5b7b0563cc1f3">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_renren_2_cb25089e679a84758bddbfa544efe18ed5d87388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_yixin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a187372256b41fe6a984916b49b349a74c8fc87">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_yixin_2_d13a338634153ca2d162eaab86f2bf75fed8259b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_instagram.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bfcc8521068afaad51b43e2033ddcce45eda37c7">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_instagram_d5f5ee02a39385814380c3342c1a9de991b04c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_laiwang_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5778375ae0d0aa13d1e8f810116bce0672ad7973">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_laiwang_1_304591de2a94568d4c9a1db3d753b4b1127165f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\SocialSDK_tumblr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d6d73ca3b68738d25bb62f66c977afa34c4a93fc">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\SocialSDK_tumblr_51dc61b7ab0a82daea100b05837c227eaf915069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="900f7617393efd990a5c07ddeba769fb51fbcbdb">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ea83a1829bf936607cf59b95b6cc1a2d8cfe4d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c4c0b8d237757dce06738a695d8b5c09d0ea2574">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\volley_1f7bea67249f041b671994e23e53ff81153d24a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\social_sdk_example\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="03b812c96b9f44a3c6e64f1d9e21826cd5813e60">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\instant-run_8eaff1bb3551767fab3289d441abc0ba3e10e281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\social_sdk_example\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_614a82c679e40fbba534914a54630443a1438bea.jar" />
+    </item>
+
+</items>

@@ -14,5 +14,9 @@ public class MainActivity extends AppCompatActivity {
         User user = new User("Guo", "SC");
         //绑定UI
         binding.setUser(user);
+        //设置监听
+        //注意不设置监听没作用
+        binding.setHandlers(new MyHandle());
     }
+
 }
